@@ -1,4 +1,5 @@
 # Examen-Parcial-2
+https://github.com/Gmongtor/Examen-Parcial-2.git
 # 🌌 Parte I – Misiones de Conocimiento Teórico (60%)
 
 ---
